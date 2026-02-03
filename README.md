@@ -12,6 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=yash-144&theme=ocean_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-144&theme=ocean_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🕹️ My GitHub in Space
+## 🚀 Commits Under Fire
 
-![Space Invaders Animation](https://raw.githubusercontent.com/yash-144/yash-144/output/space-invaders.gif)
+![Rocket firing at commits](https://raw.githubusercontent.com/yash-144/yash-144/output/rocket-commits.svg)
