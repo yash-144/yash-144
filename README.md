@@ -12,4 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=yash-144&theme=ocean_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-144&theme=ocean_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🕹️ My GitHub in Space
+
+![Space Invaders Animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/space-invaders.gif)
