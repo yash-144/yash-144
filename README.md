@@ -14,4 +14,4 @@
 
 ## 🕹️ My GitHub in Space
 
-![Space Invaders Animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/space-invaders.gif)
+![Space Invaders Animation](https://raw.githubusercontent.com/yash-144/yash-144/output/space-invaders.gif)
