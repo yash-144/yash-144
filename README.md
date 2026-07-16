@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>A mobile app and website for my college tech fest.<br><br>👯 I’m looking to collaborate on  <br>Web apps, developer tools, and real-world software projects.<br><br>🌱 I’m currently learning  <br>DevOps, cloud infrastructure, and deeper system design.<br><br>💬 Ask me about  <br>Web development, APIs, databases, Git, and deployment.<br><br>⚡ Fun fact  <br>I’ve built a multiplayer chess app — ugly UI, solid learning.
+👯 I’m looking to collaborate on  <br>Web apps, developer tools, and real-world software projects.<br><br>🌱 I’m currently learning  <br>DevOps, cloud infrastructure, and deeper system design.<br><br>💬 Ask me about  <br>Web development, APIs, databases, Git, and deployment.<br><br>⚡ Fun fact  <br>I’ve built a multiplayer chess app — ugly UI, solid learning.
 
 
 ## 🌐 Socials:
